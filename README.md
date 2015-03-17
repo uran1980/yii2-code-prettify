@@ -45,7 +45,7 @@ class AppAsset extends \yii\web\AssetBundle
 }
 ```
 
-That's it. In the View add button like this:
+That's it. In the View add source code blocks like this:
 
 ```html
 <pre class="prettyprint">
