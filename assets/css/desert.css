@@ -1,7 +1,7 @@
 /* desert scheme ported from vim to google prettify */
 pre.prettyprint {
     display: block;
-    background-color: #093541; /*#08333e; /*#343b3e;*/
+    background-color: #0a3d4b; /*#093541; /*#08333e; /*#343b3e;*/
 }
 pre .nocode {
     background-color: transparent;
@@ -39,7 +39,7 @@ li.L0,li.L1,li.L2,li.L3,li.L4,li.L5,li.L6,li.L7,li.L8,li.L9 {
     border-left: 1px solid #315762
 }
 /* Alternate shading for lines */
-li.L1,li.L3,li.L5,li.L7,li.L9 { background: #093541; /*#3a3e40;*/ }
+li.L1,li.L3,li.L5,li.L7,li.L9 { background: #0a3d4b; /*#093541; /*#3a3e40;*/ }
 
 @media print {
   pre.prettyprint { background-color: transparent; }
